@@ -1,0 +1,33 @@
+label {
+  color: skyblue;
+}
+h3 {
+  color:skyblue;
+}
+h4 {
+  margin: 0px;
+  border-top: 1px green;
+}
+input {
+  height: 20px;
+  width: 300px;
+}
+textarea {
+  height: 150px;
+  width: 300px;
+}
+.namedecide {
+  display: flex;
+  flex-direction: column;
+}
+.commentdecide {
+  display: flex;
+  flex-direction: column;
+}
+.send {
+  height: 35px;
+  margin-top: 20px;
+  border: 1px solid white;
+  background-color:skyblue;
+  color: white;
+}
